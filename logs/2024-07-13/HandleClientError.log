@@ -1,0 +1,14 @@
+2024-07-13 00:19:51 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-13 00:20:00 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-13 04:43:44 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-13 04:43:56 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-13 09:29:21 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-13 09:29:33 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-13 14:18:39 [ERROR] - Error handling client: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-07-13 14:21:46 [ERROR] - Error handling client: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-07-13 14:32:47 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-13 14:33:00 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-13 19:12:04 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-13 19:12:16 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-13 23:50:05 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-13 23:50:17 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte

@@ -1,0 +1,21 @@
+2024-07-10 01:28:49 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xc9 in position 1: invalid continuation byte
+2024-07-10 01:29:24 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0x80 in position 10: invalid start byte
+2024-07-10 01:30:18 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xff in position 10: invalid start byte
+2024-07-10 01:30:35 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xb8 in position 14: invalid start byte
+2024-07-10 01:30:54 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xff in position 16: invalid start byte
+2024-07-10 01:31:12 [ERROR] - Error handling client: 'utf-8' codec can't decode bytes in position 2-3: invalid continuation byte
+2024-07-10 01:31:47 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-10 01:32:42 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xbf in position 9: invalid start byte
+2024-07-10 05:20:40 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-10 05:20:52 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-10 05:50:19 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-10 05:50:31 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-10 10:36:28 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe1 in position 5: invalid continuation byte
+2024-07-10 12:43:58 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-10 12:44:10 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-10 13:18:20 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-10 13:18:32 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-10 22:00:28 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-10 22:00:40 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-10 22:34:54 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-07-10 22:35:06 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte

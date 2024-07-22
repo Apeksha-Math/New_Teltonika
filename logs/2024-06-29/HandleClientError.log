@@ -1,0 +1,12 @@
+2024-06-29 08:03:03 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-06-29 08:03:15 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-06-29 08:56:14 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-06-29 08:56:26 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-06-29 17:01:28 [ERROR] - Error handling client: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-06-29 19:51:55 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xee in position 2: invalid continuation byte
+2024-06-29 19:52:11 [ERROR] - Error handling client: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-06-29 19:52:21 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-06-29 22:00:38 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-06-29 22:00:50 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-06-29 22:49:43 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
+2024-06-29 22:49:55 [ERROR] - Error handling client: 'utf-8' codec can't decode byte 0xe0 in position 3: invalid continuation byte
