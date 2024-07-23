@@ -32,5 +32,12 @@ pipeline {
             }
         }
     }
-    
+    post {
+        always {
+            echo "Pipeline: ${currentBuild.fullDisplayName}"
+            echo "Build ${currentBuild.result}"
+            echo "${env.BUILD_URL}"
+        }
+    }
+
 }
