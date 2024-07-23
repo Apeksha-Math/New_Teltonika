@@ -5,7 +5,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Clone the repository
-                git 'https://github.com/Apeksha-Math/New_Teltonika.git'
+                 git branch: 'socket_pgm', url: 'https://github.com/Apeksha-Math/New_Teltonika.git'               
             }
         }
 
