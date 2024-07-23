@@ -32,13 +32,5 @@ pipeline {
             }
         }
     }
-
-    post {
-        always {
-            // Cleanup actions, notifications, etc.
-            mail to: 'you@example.com',
-                 subject: "Pipeline: ${currentBuild.fullDisplayName}",
-                 body: "Build ${currentBuild.result} \n ${env.BUILD_URL}"
-        }
-    }
+    
 }
