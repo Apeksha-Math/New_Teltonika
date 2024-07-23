@@ -1,0 +1,4 @@
+2024-07-02 15:49:08 [ERROR] - Error uploading record to Redis: You can't write against a read only slave.
+2024-07-02 17:18:47 [ERROR] - Error uploading record to Redis: You can't write against a read only slave.
+2024-07-02 18:03:21 [ERROR] - Error uploading record to Redis: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+2024-07-02 18:03:30 [ERROR] - Error uploading record to Redis: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.

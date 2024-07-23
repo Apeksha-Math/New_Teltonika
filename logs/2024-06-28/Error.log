@@ -1,0 +1,76 @@
+2024-06-28 15:23:59 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 15:23:59 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 15:30:19 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 15:30:19 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 15:33:12 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 15:33:12 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 15:41:39 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 15:41:39 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 15:45:47 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 15:45:47 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 15:52:53 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 15:52:53 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 15:55:37 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 15:55:37 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 15:59:48 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 15:59:48 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 16:03:58 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 16:03:58 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 16:11:04 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 16:11:04 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 16:17:39 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 16:17:39 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 16:21:44 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 16:21:44 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 16:22:25 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:24:44 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:24:50 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:24:55 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:25:07 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:25:08 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:25:13 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:25:16 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:25:16 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:25:35 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:25:40 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:25:50 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:26:01 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:26:03 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:26:09 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:26:42 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:26:45 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:26:46 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:27:09 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:27:28 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:27:30 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:27:37 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:27:37 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:27:40 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:27:44 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:30:44 [INFO] - Error parsing data at position 976: Incomplete fourth IO element data
+2024-06-28 16:30:44 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 16:30:44 [INFO] - Unwanted codec_id: 00
+2024-06-28 16:30:44 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 16:33:01 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:33:08 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:33:12 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:33:13 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:33:15 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:33:16 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:33:18 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:36:15 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 16:36:15 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 16:37:56 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:40:47 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 16:44:25 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 16:44:25 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 16:49:43 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 16:49:43 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 16:55:06 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 16:55:06 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 17:02:09 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 17:02:09 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
+2024-06-28 17:03:53 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 17:05:37 [INFO] - Unexpected error: [Errno 22] Invalid argument
+2024-06-28 17:06:35 [INFO] - Error parsing header fields: invalid literal for int() with base 16: ''
+2024-06-28 17:06:35 [INFO] - Unexpected error: cannot unpack non-iterable NoneType object
