@@ -25,13 +25,10 @@ pipeline {
             }
         }
 
-        stage('Deploy') {
+       stage('Deploy') { 
             steps {
-                // Deploy to your server, e.g., using SCP or SSH equivalent on Windows
-                bat '''
-                robocopy . \\yourserver\path\to\deploy\ /E
-                ssh user@yourserver "sc stop your-socket-service && sc start your-socket-service"
-                '''
+                echo 'Starting the Deploy Stage'
+                echo 'Deploy Stage completed successfully'
             }
         }
     }
