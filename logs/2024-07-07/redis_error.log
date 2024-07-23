@@ -1,1 +1,0 @@
-2024-07-07 05:02:58 [ERROR] - Error uploading record to Redis: You can't write against a read only slave.
